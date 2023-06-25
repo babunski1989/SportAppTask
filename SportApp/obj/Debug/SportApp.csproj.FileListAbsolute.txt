@@ -1,0 +1,8 @@
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\bin\Debug\SportApp.exe.config
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\bin\Debug\SportApp.exe
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\bin\Debug\SportApp.pdb
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\obj\Debug\SportApp.csproj.AssemblyReference.cache
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\obj\Debug\SportApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\obj\Debug\SportApp.csproj.CoreCompileInputs.cache
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\obj\Debug\SportApp.exe
+C:\Projects\SQLliteDataBaseApp\SportApp\SportApp\obj\Debug\SportApp.pdb
